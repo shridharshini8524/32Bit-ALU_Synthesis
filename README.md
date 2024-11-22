@@ -86,6 +86,6 @@ used.
 
 <br>
 
-**Result:** <br>
-<br>
-&emsp;&emsp;The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
+**Result:** 
+
+ The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
